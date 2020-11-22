@@ -44,4 +44,6 @@ docker-compose up -d
 
 ## 部分页面截图
 
-大尺寸下
+根目录下 screenshot
+
+
