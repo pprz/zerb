@@ -9,7 +9,7 @@
 
 ## 启动项目 
 
-### 方法一
+### 分别启动前后端项目
 
 后端zerb_BE 目录下执行：
 ```
@@ -30,7 +30,7 @@ yarn
 yarn start
 ```
 
-### 方法二
+### docker 增加dokcer配置 打包 启动服务成功 访问未成功
 
 ```
 docker-compose up -d
